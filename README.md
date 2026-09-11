@@ -95,7 +95,7 @@ ApexPlanet-Task3-Customer-Segmentation-Dashboard/
 |
 |-- README.md
 |-- Task3_Customer_Segmentation_Interactive_Dashboard.pbix
-|-- Task3_Deep_Dive_Report.pdf
+|-- Task3_Customer_Segmentation_Interactive_Dashboard_Report.pdf
 |
 `-- images/
     `-- task3_dashboard.png
